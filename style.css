@@ -52,14 +52,6 @@ p{
 a{
     justify-content: center;
 }
-.home {
-    background: #ffffff;
-    padding: 40px;
-    border-radius: 12px;
-    text-align: center;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-    width: 320px;
-}
 
 .head {
     margin-bottom: 30px;
