@@ -85,7 +85,7 @@ a {
   .center h1,
   .head {
     font-size: 20px;
-  }
+    
 
   button {
     height: 42px;
@@ -105,7 +105,7 @@ a {
   .center {
     max-width: 400px;
   }
-
+  
   button {
     font-size: 15px;
   }
@@ -118,4 +118,7 @@ a {
   .center {
     max-width: 380px;
   }
+ 
+
+}
 }
